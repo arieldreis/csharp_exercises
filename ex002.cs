@@ -1,5 +1,5 @@
 using System;
-
+// Programa Sucessor e Antecessor
 public class HelloWorld{
     public static void Main(string[] args){
         int numero = 0;

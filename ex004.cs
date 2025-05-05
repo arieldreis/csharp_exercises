@@ -1,5 +1,5 @@
 using System;
-
+// VocÊ digita o seu nome e aparece o resultado dele.
 public class HelloWorld{
     public static void Main(string[] args){
         String nome;

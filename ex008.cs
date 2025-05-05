@@ -1,9 +1,7 @@
-namespace ConsoleApplication
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
+// Classe de um funcionário
+namespace ConsoleApplication{
+    class Program{
+        static void Main(string[] args){
             Program p = new Program();
             double Salario;
 
@@ -27,16 +25,12 @@ namespace ConsoleApplication
             Console.ReadKey();
         }
 
-        private double CalculaSalario(double Salario)
-        {
+        private double CalculaSalario(double Salario){
             double NovoSalario = 0;
 
-            if (Salario >= 1700)
-            {
+            if (Salario >= 1700){
                 NovoSalario = (Salario + 200);
-            }
-            else
-            {
+            }else{
                 NovoSalario = (Salario + 300);
             }
 
