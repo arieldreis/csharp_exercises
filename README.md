@@ -26,10 +26,10 @@ Este repositório contém meus exercícios de **C#**, desde os conceitos básico
 ## 🚀 Como executar
 ```bash
 # Clone o repositório
-git clone https://github.com/arieldreis/C-.git
+git clone https://github.com/arieldreis/csharp_exercises.git
 
 # Entre na pasta
-cd C-
+cd csharp_exercises
 
 # Compile e execute (via .NET CLI)
 dotnet run
